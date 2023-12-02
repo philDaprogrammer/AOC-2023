@@ -64,7 +64,7 @@ void part2 (List<Game> games) {
 }
 
 // driver code 
-string filePath  = "C:\\Projects\\AOC-2023\\day2\\day2\\input.txt"; 
+string filePath = "YOUR PATH HERE"; 
 
 List<Game> games = parse(filePath);
 part1(games);
