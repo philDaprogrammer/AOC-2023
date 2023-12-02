@@ -1,4 +1,4 @@
-﻿var input = File.ReadAllLines("C:\\Projects\\day1_2023\\day1_2023\\input.txt");
+﻿var input = File.ReadAllLines("YOUR PATH HERE");
 
 void solve(string[] lines) {
     int total = 0;
